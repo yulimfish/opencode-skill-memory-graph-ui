@@ -2,7 +2,7 @@
 
 > opencode 技能：告诉模型怎么打开 / 查询 [`opencode-mem`](https://www.npmjs.com/package/opencode-mem) 的 WebUI（`http://127.0.0.1:4747`）—— 时间线、用户画像浏览器、聚类视图。
 
-隶属 [`opencode-codex-kit`](https://github.com/Yulimfish/opencode-codex-kit)。
+隶属 [`opencode-workflow-kit`](https://github.com/Yulimfish/opencode-workflow-kit)。
 
 ## 它告诉模型什么
 
